@@ -8,8 +8,9 @@
    `git clone https://github.com/gsrgsefdssg/osint-toolbox-4.0.git`
 
 2. Установи зависимости:
-   `pip install -r requirements.txt`
-
+   `pip install pyperclip`
+`pip install exifread`
+`pip install pyperclip exifread`
 ## Использование
 
 Запуск скрипта:
