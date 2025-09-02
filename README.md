@@ -13,7 +13,7 @@
 ## Использование
 
 Запуск скрипта:
-`python osint 4.0.py --help`
+`python osint_4.0.py --help`
 
 ## Возможности
 
